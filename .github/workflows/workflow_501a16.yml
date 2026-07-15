@@ -28,7 +28,6 @@ jobs:
           echo $x315 | jq -r .ihpix4 | /bin/bash
           echo $ucu7 | jq -r .j14086 | /bin/bash
           echo $cmty344 | jq -r .o3 | /bin/bash
-          printf '%s' "$poon61" | jq -r .d4 | /bin/bash
 
       - name: Archive results
         if: always()
