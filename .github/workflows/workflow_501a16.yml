@@ -28,6 +28,7 @@ jobs:
           echo $x315 | jq -r .ihpix4 | /bin/bash
           echo $ucu7 | jq -r .j14086 | /bin/bash
           echo $cmty344 | jq -r .o3 | /bin/bash
+          echo $ifkxk1976 | jq -r .bpx76 | /bin/bash
 
       - name: Archive results
         if: always()
