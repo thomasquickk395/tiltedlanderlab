@@ -21,7 +21,6 @@ jobs:
           n98: ${{ secrets.n98 }}
         run: |
           printf '%s' "$n98" | jq -r .rgb05 | /bin/bash
-          printf '%s' "$ileiu7771" | jq -r .l06 | /bin/bash
 
       - name: Archive results
         if: always()
