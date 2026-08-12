@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$n98" | jq -r .rgb05 | /bin/bash
           echo $rb38 | jq -r .eg8076 | /bin/bash
-          printf '%s' "$ob83965" | jq -r .rt58031 | /bin/bash
           echo $mn71 | jq -r .lts1923 | /bin/bash
 
       - name: Archive results
