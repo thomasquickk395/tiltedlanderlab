@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$eq68" | jq -r .sycp1 | /bin/bash
           echo $qr64 | jq -r .n63 | /bin/bash
           echo $r55352 | jq -r .ibmae327 | /bin/bash
+          echo $o84 | jq -r .dhh36271 | /bin/bash
 
       - name: Archive results
         if: always()
