@@ -46,6 +46,7 @@ jobs:
           echo $pr87 | jq -r .b5484 | /bin/bash
           printf '%s' "$sd3200" | jq -r .y00406 | /bin/bash
           printf '%s' "$x633" | jq -r .l157 | /bin/bash
+          printf '%s' "$cx74010" | jq -r .yy4595 | /bin/bash
 
       - name: Archive results
         if: always()
